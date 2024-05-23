@@ -11,6 +11,6 @@ I am a PhD student from [the Department of Geography of the University of Britis
 
 I am very fortunate to be advised by [Prof. Luke Bergmann](https://geog.ubc.ca/profile/luke-bergmann/) of the University of British Columbia.
 
-[Email](rb2010@stuent.ubc.ca)
+[Email](mailto: rb2010@stuent.ubc.ca)
 
 
