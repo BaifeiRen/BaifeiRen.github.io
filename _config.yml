@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Baifei-Ren" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/BaiBairainfly"
 
 
 # Site Settings
