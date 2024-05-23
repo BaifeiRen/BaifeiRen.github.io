@@ -21,7 +21,7 @@ repository               : "https://rbf2010.github.io/BaifeiFayRen.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Baifei Ren2p.png"
   name             : "Baifei Ren"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Geography"
@@ -34,8 +34,8 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Baifei-Ren" # URL
 
   # Repositories and software development
