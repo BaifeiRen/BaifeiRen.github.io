@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Baifei Ren"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Vancouver"
+  employer         : "The University of British Columbia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rb2010@student.ubc.ca; rbf2010@126.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
