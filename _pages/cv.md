@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Geography, the University of British Columbia, 2026 (expected)
 * M.L.A., Peking University, 2020
-* B.S. in Urban Planning, Huazhong University of Science and Technology, 2017
+* B.Eng. in Urban Planning, Huazhong University of Science and Technology, 2017
 
 Work experience
 ======
