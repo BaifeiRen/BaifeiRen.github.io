@@ -12,6 +12,8 @@ I am a PhD student from [the Department of Geography of the University of Britis
 
 I am very fortunate to be advised by [Prof. Luke Bergmann](https://geog.ubc.ca/profile/luke-bergmann/) of the University of British Columbia.
 
+I graduated with a Master’s degree in Landscape Architecture from [Peking University (PKU)] (https://english.pku.edu.cn/about.html), preceded by a Bachelor’s degree in Urban Planning from Huazhong University of Science and Technology (HUST) in China.
+
 [Email](mailto: rb2010@stuent.ubc.ca)
 
 
