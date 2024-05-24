@@ -5,13 +5,3 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my articles on [my Research Gate profile](https://www.researchgate.net/profile/Baifei-Ren)
-#{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">[my Research Gate profile](https://www.researchgate.net/profile/Baifei-Ren)</a>.</div>
-
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
