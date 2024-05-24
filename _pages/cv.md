@@ -24,7 +24,7 @@ Work experience
 
 * Spring 2021: Research Intern
   * Research Center of Eco-Environment Sciences, Chinese Academy of Sciences, 
-  *	Duties include: participated in a research project titled 'The Impact of New Urban Land Development on Ecological Space in the Beijing-Tianjin-Hebei Region.
+  *	Duties included: participated in a research project titled 'The Impact of New Urban Land Development on Ecological Space in the Beijing-Tianjin-Hebei Region.
   
 * Fall 2018: Research Assistant
   * Peking University
