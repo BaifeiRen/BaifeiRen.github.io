@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   #<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">[my Research Gate profile](https://www.researchgate.net/profile/Baifei-Ren)</a>.</div>
-   <div class="wordwrap">You can also find my articles on my Research Gate profile(https://www.researchgate.net/profile/Baifei-Ren)</a>.</div>
+You can also find my articles on [my Research Gate profile](https://www.researchgate.net/profile/Baifei-Ren)</a>.</div>
 {% endif %}
 
 {% include base_path %}
