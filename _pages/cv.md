@@ -17,15 +17,19 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Spring 2024: Teaching Assistant
+  * The University of British Columbia
+  * Duties includes: Lab discussion, Grading.
   * Supervisor: The Users
 
-* Fall 2017: Research Assistant
+*	10/2020–01/2021:Research Intern
+  *	Research Center of Eco-Environment Sciences, Chinese Academy of Sciences, 
+  *	Duties include: participated in a research project titled 'The Impact of New Urban Land Development on Ecological Space in the Beijing-Tianjin-Hebei Region.
+  
+* Fall 2018: Research Assistant
   * Peking University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Fang Wang ()
+  * Duties included: GIS data collection and processing
+  * Supervisor: Professor Fang Wang 
 
 * Summer 2015: Research Assistant
   * Github University
