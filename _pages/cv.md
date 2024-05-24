@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Lab discussion, Grading.
   * Supervisor: The Users
 
-*	10/2020–01/2021:Research Intern
+*	2020 Winter- 2021 Spring: Research Intern
   *	Research Center of Eco-Environment Sciences, Chinese Academy of Sciences, 
   *	Duties include: participated in a research project titled 'The Impact of New Urban Land Development on Ecological Space in the Beijing-Tianjin-Hebei Region.
   
