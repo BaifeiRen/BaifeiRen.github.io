@@ -5,7 +5,7 @@ permalink: /publication/2022-11-01- Qilian Mountain National Park-Land
 excerpt: 'This paper is about the number 1.'
 date: 2022-11-01
 venue: 'Land'
-paperurl: '[https://www.mdpi.com/2073-445X/11/11/2087]'
+paperurl: 'https://www.mdpi.com/2073-445X/11/11/2087'
 citation: 'Ren, B., Park, K., Shrestha, A., Yang, J., McHale, M., Bai, W., & Wang, G. (2022). Impact of human disturbances on the spatial heterogeneity of landscape fragmentation in Qilian Mountain National Park, China. Land, 11(11), 2087.; <i>Journal 1</i>. 1(1).'
 ---
 
