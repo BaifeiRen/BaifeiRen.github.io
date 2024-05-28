@@ -20,7 +20,6 @@ Work experience
 * Spring 2024: Teaching Assistant
   * The University of British Columbia
   * Duties includes: Lab discussion, Grading.
-  * Supervisor: The Users
 
 * Spring 2021: Research Intern
   * Research Center of Eco-Environment Sciences, Chinese Academy of Sciences, 
@@ -31,10 +30,10 @@ Work experience
   * Duties included: GIS data collection and processing
   * Supervisor: Professor Fang Wang 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Teaching Assistant
+  * Peking University
+  * Duties included: Course Videos
+  * Supervisor: Zhengkai Xia
   
 Skills
 ======
