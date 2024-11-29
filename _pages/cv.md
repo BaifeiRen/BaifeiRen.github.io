@@ -62,12 +62,5 @@ An Exploration of the Direction of Private Museums——Investigation and Resear
 Our design works and description of design was accepted for publication in the journal Landscape Architecture
 
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
+
 
