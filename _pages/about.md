@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Baifei's academic personal websites"
+title: "Baifei's Academic Personal Websites"
 excerpt: about me
 author_profile: true
 redirect_from: 
