@@ -17,3 +17,4 @@ I graduated with a Master’s degree in Landscape Architecture from [Peking Univ
 [Email](mailto: rb2010@stuent.ubc.ca)
 
 
+<img src="images/qilian mountain.jpg" alt='Qilian Mountain'>
