@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Reconstructing Vitality and Creating Blank Space ——Renovation of an Old Theater in Xixinan Village. 
-<img src='./images/old theater.jpg  alt="Old Theater"/>
+<img src="./images/old theater.jpg"  alt="Old Theater"/>
