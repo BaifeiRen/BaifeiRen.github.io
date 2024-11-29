@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Renovation of an Old Theater in Xixinan Village, HuangShan, Anhui, China"
 excerpt: "Finalist in Annual Awards in China Human Settlement Design<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
