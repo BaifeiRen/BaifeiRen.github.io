@@ -15,6 +15,7 @@ author_profile: true
 
 
 Impact of Human Disturbances on the Spatial Heterogeneity of Landscape Fragmentation in Qilian Mountain National Park, China
+======
 Published in Land, 2022
 
 Keywords: human disturbance; tourism activity; landscape fragmentation; geographically weighted regression; landscape metrics
