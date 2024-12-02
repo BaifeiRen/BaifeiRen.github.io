@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
 
 Impact of Human Disturbances on the Spatial Heterogeneity of Landscape Fragmentation in Qilian Mountain National Park, China
 Published in Land, 2022
