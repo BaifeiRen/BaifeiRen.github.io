@@ -4,7 +4,7 @@ excerpt: "Finalist in Annual Awards in China Human Settlement Design<br/>"
 collection: portfolio
 ---
 
-Reconstructing Vitality and Creating Blank Space ——Renovation of an Old Theater in Xixinan Village. 
+Finalist in Annual Awards in China Human Settlement Design 
 ---
 Designers: Shunyi Wang, Baifei Ren
 <img src="/BaifeiRen.github.io/images/Old_Theater1.jpg"  alt="Old Theater 1..."/>
