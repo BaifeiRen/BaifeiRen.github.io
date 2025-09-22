@@ -8,7 +8,8 @@ date: from 2025-09-02 to 2025-12-10
 location: "Vancouver, BC"
 ---
 
-Teaching Assisstant for Course GEOS372 Cartagraphy
+Teaching Assisstant for Course GEOS372 Cartagraphy: lead whole 7 labs (work hour 192 hours/term), teach students students to use ArcGIS Pro, R Studio, and Adobe Illustrator to create maps
+
 
 Heading 1
 ======
