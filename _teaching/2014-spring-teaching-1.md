@@ -11,11 +11,11 @@ location: "Vancouver, BC"
 Teaching Assisstant for Course GEOS372 Cartagraphy: lead whole 7 labs (work hour 192 hours/term), teach students students to use ArcGIS Pro, R Studio, and Adobe Illustrator to create maps
 
 
-Heading 1
+lead whole 7 labs (work hour 192 hours/term),
 ======
 
-Heading 2
+teach students students to use ArcGIS Pro, R Studio, and Adobe Illustrator to create maps
 ======
 
-Heading 3
+teach students students to use R Studio to create interactive maps
 ======
