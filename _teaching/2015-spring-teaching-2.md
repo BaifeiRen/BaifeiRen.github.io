@@ -1,14 +1,14 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of British Columbia, Department of Geography"
+date: from 2024-01-05 to 2024-04-30
+location: "Vancouver, BC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead the lab, Student Q&A and invigilation
 
 Heading 1
 ======
