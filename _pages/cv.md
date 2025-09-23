@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Autumn 2025: Teaching Assistant
+* Autumn 2025: Teaching Assistant for GEOS372 Cartography
   * The University of British Columbia
   * Duties includes: Introducing lab assignment, Demonstrating use of software (ArcGIS pro, Adobe Illustrator, R studio), Grading.
 
