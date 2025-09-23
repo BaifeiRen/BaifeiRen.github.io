@@ -7,7 +7,7 @@ venue: "University of British Columbia, Department of Geography"
 date: from 2024-01-05 to 2024-04-30
 location: "Vancouver, BC"
 ---
-Part-time TA for GEOS 102 Our Changing Environment: Climate and Ecosystems
+TA for GEOS 102 Our Changing Environment: Climate and Ecosystems
 ======
 
 Lead the lab, Student Q&A and invigilation
