@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Luke Bergmann](https://geog.ubc.ca/p
 
 I graduated with a Master’s degree in Landscape Architecture from [Peking University (PKU)](https://english.pku.edu.cn/about.html), preceded by a Bachelor’s degree in Urban Planning from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/ABOUT/HUST_at_a_Glance.html) in China.
 
-[Email](mailto: rb2010@stuent.ubc.ca)
+[Email](mailto: rb2010@student.ubc.ca)
 
 
 
