@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Autumn 2025: Teaching Assistant
+  * The University of British Columbia
+  * Duties includes: Introducing lab assignment, Demonstrating use of software to make maps, Grading.
+
 * Spring 2024: Teaching Assistant
   * The University of British Columbia
   * Duties includes: Lab discussion, Grading.
