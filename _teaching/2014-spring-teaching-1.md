@@ -1,4 +1,6 @@
 ---
+Head TA for GEOS 372 Cartography
+======
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
