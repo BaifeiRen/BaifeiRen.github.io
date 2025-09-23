@@ -19,7 +19,7 @@ Work experience
 ======
 * Autumn 2025: Teaching Assistant
   * The University of British Columbia
-  * Duties includes: Introducing lab assignment, Demonstrating use of software to make maps, Grading.
+  * Duties includes: Introducing lab assignment, Demonstrating use of software (ArcGIS pro, Adobe Illustrator, R studio), Grading.
 
 * Spring 2024: Teaching Assistant
   * The University of British Columbia
