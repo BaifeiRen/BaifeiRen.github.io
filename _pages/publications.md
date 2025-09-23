@@ -28,4 +28,4 @@ Published in Ecological Informatics, 2025
 
 Keywords: Landscape metrics, landscape ecology, sky view factor, urban morphology, Multiscale Geographically Weighted Regression (MGWR), street view image, land surface temperature
 
-Recommended citation: Ren, B., Bergmann, Luke. (2025).Context-Dependent Relationships between Street-level Surface Heat Intensity, the Sky View Factor, and Landscape Pattern: Examples from the Coastal City of Vancouver, Canada. Ecological Informatics, 11(11), 2087.; Journal 1. 1(1). [https://www.mdpi.com/2073-445X/11/11/2087](https://www.mdpi.com/2073-445X/11/11/2087)
+Recommended citation: Ren, B., Bergmann, Luke. (2025).Context-Dependent Relationships between Street-level Surface Heat Intensity, the Sky View Factor, and Landscape Pattern: Examples from the Coastal City of Vancouver, Canada. (Under Review)
