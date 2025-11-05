@@ -42,7 +42,7 @@ Work experience
 Skills
 ======
 •	Programming languages:  Python (package: Geopandas, scikit-learn, Matplotlib, Pytorch), 
-R (package: terra, sf, tidyverse, tidytext, ggplot)                                                                                                                                            
+R (package: terra, sf, tidyverse, tidytext, ggplot,leaflet) , Javascript                                                                                                                                           
 •	Data processing software: ArcGIS Pro (Advanced), QGIS, ENVI, SPSS                                                                                                                                
 •	Design software: Photoshop (Advanced), Adobe Illustrator, Sketch UP
 
