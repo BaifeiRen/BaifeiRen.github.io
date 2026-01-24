@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geography, the University of British Columbia, 2026 (expected)
+* Ph.D in Geography, the University of British Columbia, 2027 (expected)
 * M.L.A., Peking University, 2020
 * B.Eng. in Urban Planning, Huazhong University of Science and Technology, 2017
 
