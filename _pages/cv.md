@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Spring 2026: Teaching Assistant for GEOS270 Geographic Information Science
+  * The University of British Columbia
+  * Duties includes: Introducing lab assignment, Demonstrating use of software (ArcGIS pro), Answering students question, Grading.
+    
 * Autumn 2025: Teaching Assistant for GEOS372 Cartography
   * The University of British Columbia
   * Duties includes: Introducing lab assignment, Demonstrating use of software (ArcGIS pro, Adobe Illustrator, R studio), Answering students question, Grading.
