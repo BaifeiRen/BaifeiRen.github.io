@@ -10,6 +10,6 @@ location: "Vancouver, BC"
 
 TA for GEOS 270 Geographic Information Science
 ===
-Teaching Assisstant for Course GEOS270 Geographic Information Science: The TA for course GIS with 69 students and 6 lab assignments(work hour 192 hours/term), teach students to use ArcGIS Proto create maps and process geo-spatial data, grade assignments, answer students' questions.
+Teaching Assisstant for Course GEOS270 Geographic Information Science: The TA for course GIS with 69 students and 6 lab assignments(work hour 192 hours/term), teach students to use ArcGIS Pro to create maps and process geo-spatial data, grade assignments, answer students' questions.
 
 
