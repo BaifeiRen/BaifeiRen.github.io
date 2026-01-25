@@ -25,7 +25,7 @@ Work experience
   * The University of British Columbia
   * Duties includes: Introducing lab assignment, Demonstrating use of software (ArcGIS pro, Adobe Illustrator, R studio), Answering students question, Grading.
 
-* Spring 2024: Teaching Assistant
+* Spring 2024: Teaching Assistant for GEOS102: Our Changing Environment: Climate and Ecosystems
   * The University of British Columbia
   * Duties includes: Lab discussion, Grading.
 
