@@ -52,9 +52,9 @@ R (package: terra, sf, tidyverse, tidytext, ggplot,leaflet) , Javascript
 
 Selected Publications
 ======
-• Ren, B., Bergmann, L. (2026). Context-dependent relationships between street-level surface heat intensity, the sky view factor, and landscape patterns: Examples from the Coastal City of Vancouver, Canada, Ecological Informatics, 2026, 103637. 
+• **Ren, B.**, Bergmann, L. (2026). Context-dependent relationships between street-level surface heat intensity, the sky view factor, and landscape patterns: Examples from the Coastal City of Vancouver, Canada, Ecological Informatics, 2026, 103637. 
 
-• Ren, B., Park, K., Shrestha, A., Yang, J., McHale, M., Bai, W., & Wang, G. (2022). Impact of human disturbances on the spatial heterogeneity of landscape fragmentation in Qilian Mountain National Park, China. Land, 11(11), 2087.
+• **Ren, B.**, Park, K., Shrestha, A., Yang, J., McHale, M., Bai, W., & Wang, G. (2022). Impact of human disturbances on the spatial heterogeneity of landscape fragmentation in Qilian Mountain National Park, China. Land, 11(11), 2087.
   
 Award
 ======
