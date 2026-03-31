@@ -21,7 +21,7 @@ Keywords: Landscape metrics, street canopy, sky view factor, urban morphology, M
 <details>
   <summary style="
     display: inline-block;
-    background-color: #2c3e50;
+    background-color: #1f3a6e;
     color: white;
     padding: 8px 16px;
     border-radius: 6px;
