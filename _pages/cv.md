@@ -12,8 +12,6 @@ redirect_from:
 
 
 
-<h1>Curriculum Vitae</h1>
-
 
 <!-- 永久显示的目录 -->
 <div class="toc">
