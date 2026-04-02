@@ -27,7 +27,8 @@ redirect_from:
 
   h1 {
     font-size: 2em;
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
   }
 
   h2 {
