@@ -5,13 +5,29 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<div class="page-header">
+  <h1>Academic Portfolio</h1>
+  <p>
+    This portfolio showcases selected my design awards in urban design and academic work 
+    in urban climate, spatial analysis, and geospatial modeling.
+  </p>
+</div>
 
-<img src="../images/Baifei_portfolio.jpg"  alt="Baifei_portfolio..."/>
+<div class="portfolio-image">
+  <figure>
+    <img src="../images/Baifei_portfolio.jpg" 
+         alt="Overview of academic and geospatial research projects" />
+    <figcaption>
+      This collection presents my watercolor paintings.
+    </figcaption>
+  </figure>
+</div>
 
-<h1> Academic Work Portfolio</h1>
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<hr>
 
+<div class="portfolio-list">
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
 
