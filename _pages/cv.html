@@ -30,7 +30,8 @@ h1.page-title {
     background-color: #f9f9f9;      
     padding: 20px;                  
     margin: 20px 0;                 
-    border-left: 3px solid #000000; 
+    border-left: 4px solid #000000; 
+    text-transform: none;  /* 取消继承的大写 */
 }
 
 /* 目录标题 */
@@ -40,6 +41,7 @@ h1.page-title {
     font-weight: bold;
     margin-bottom: 3px;
     margin-top: 3px;                   /* 减小上边距 */
+    text-transform: none;  /* 确保标题和链接不大写 */
 }
 
 /* 目录列表 */
@@ -55,7 +57,8 @@ h1.page-title {
 
 .toc ul li a {
     text-decoration: none;   
-    color: #000000;          
+    color: #000000; 
+    text-transform: none;  /* 确保标题和链接不大写 */
 }
 
 .toc ul li a:hover {
