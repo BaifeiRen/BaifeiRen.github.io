@@ -10,16 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-  h2 { margin-top: 30px; }
-  ul { list-style-type: disc; margin-left: 20px; }
-  .toc summary { cursor: pointer; font-weight: bold; }
-  .toc ul { list-style-type: none; padding-left: 0; }
-  .toc ul li { margin: 5px 0; }
-</style>
-</head>
-<body>
+
 
 <h1>Curriculum Vitae</h1>
 
