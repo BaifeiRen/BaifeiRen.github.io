@@ -52,7 +52,7 @@ Keywords: Landscape metrics, street canopy, sky view factor, urban morphology, M
 
 Recommended citation: **Ren, B.**, Bergmann, L. (2026). Context-dependent relationships between street-level surface heat intensity, the sky view factor, and landscape patterns: Examples from the Coastal City of Vancouver, Canada,
 Ecological Informatics, 2026, 103637. [https://doi.org/10.1016/j.ecoinf.2026.103637](https://doi.org/10.1016/j.ecoinf.2026.103637)
-
+<hr>
 <br>
 
 
