@@ -20,7 +20,7 @@ redirect_from:
   }
 
   /* 标题字体 */
-  h2, h3 {
+  h1,h2, h3 {
     font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
     color: #111;
   }
@@ -56,6 +56,12 @@ redirect_from:
     margin-left: 20px; 
   }
   li { margin-bottom: 8px; }
+
+    /* 确保锚点跳转不被 header 遮挡 */
+  h1[id], h2[id], h3[id] {
+    scroll-margin-top: 100px; /* 与 .cv-content padding-top 保持一致 */
+  }
+</style>
 </style>
 
 <body>
