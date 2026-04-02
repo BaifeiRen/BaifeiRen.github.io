@@ -10,8 +10,52 @@ redirect_from:
 {% include base_path %}
 
 
+<style>
+  /* 全局字体设置 */
+  body { 
+    font-family: Georgia, 'Times New Roman', serif; 
+    line-height: 1.6; 
+    padding: 20px; 
+    color: #222;
+  }
 
+  /* 标题字体 */
+  h1, h2, h3 {
+    font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+    color: #111;
+  }
 
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+
+  /* Table of Contents */
+  .toc {
+    font-size: 0.9em; /* TOC 字体较小 */
+    margin-bottom: 20px;
+  }
+  .toc ul { 
+    list-style-type: none; 
+    padding-left: 0; 
+  }
+  .toc ul li { 
+    margin: 5px 0; 
+  }
+
+  /* 列表样式 */
+  ul { 
+    list-style-type: disc; 
+    margin-left: 20px; 
+  }
+  li { margin-bottom: 8px; }
+</style>
 
 <!-- 永久显示的目录 -->
 <div class="toc">
