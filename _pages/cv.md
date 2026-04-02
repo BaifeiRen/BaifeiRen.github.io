@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>CV - Baifei Ren</title>
+
 <style>
   body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
   h2 { margin-top: 30px; }
@@ -26,21 +23,19 @@ redirect_from:
 
 <h1>Curriculum Vitae</h1>
 
-<!-- 折叠目录 -->
+
+<!-- 永久显示的目录 -->
 <div class="toc">
-  <details>
-    <summary>Table of Contents</summary>
-    <ul>
-      <li><a href="#education">Education</a></li>
-      <li><a href="#work-experience">Work Experience</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#publications">Selected Publications</a></li>
-      <li><a href="#awards">Awards</a></li>
-    </ul>
-  </details>
+  <h2>Table of Contents</h2>
+  <ul>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#work-experience">Work Experience</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#publications">Selected Publications</a></li>
+    <li><a href="#awards">Awards</a></li>
+  </ul>
 </div>
 <br>
-
 <!-- Education -->
 <h2 id="education">Education</h2>
 <ul>
