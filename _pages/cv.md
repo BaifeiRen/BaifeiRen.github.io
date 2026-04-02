@@ -20,14 +20,14 @@ redirect_from:
   }
 
   /* 标题字体 */
-  h1, h2, h3 {
+  h2, h3 {
     font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
     color: #111;
   }
 
   h1 {
     font-size: 2em;
-    margin-top: 30px;
+    margin-top: 60px;
     margin-bottom: 20px;
   }
 
