@@ -11,18 +11,61 @@ redirect_from:
 {% include base_path %}
 
 <style>
+/* CV 标题 */
 h1.page-title {
     font-family: "Georgia", serif;
     font-size: 48px;
     font-weight: bold;
-    color: #000080;
+    color: #000000;
     letter-spacing: 2px;
     text-transform: uppercase;
-    margin-top: 300px; /* 根据导航栏高度调整 */
+    margin-top: 120px;          /* 顶部留白，避免导航遮挡 */
+    scroll-margin-top: 120px;   /* 跳转到标题时偏移 */
+}
+
+/* 永久目录样式 */
+.toc {
+    font-family: "Georgia", serif;  
+    font-size: 16px;                
+    line-height: 1.6;               
+    color: #000000;                 
+    background-color: #f9f9f9;      
+    padding: 20px;                  
+    margin: 20px 0;                 
+    border-left: 3px solid #000000; 
+}
+
+/* 目录标题 */
+.toc h2 {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* 目录列表 */
+.toc ul {
+    list-style-type: none;   
+    padding-left: 10px;      
+}
+
+.toc ul li {
+    margin-bottom: 8px;      
+}
+
+.toc ul li a {
+    text-decoration: none;   
+    color: #000000;          
+}
+
+.toc ul li a:hover {
+    text-decoration: underline; 
 }
 </style>
 
 <body>
+<h1 class="page-title">{{ page.title }}</h1>
+
 <!-- 永久显示的目录 -->
 <div class="toc">
   <h2>Table of Contents</h2>
