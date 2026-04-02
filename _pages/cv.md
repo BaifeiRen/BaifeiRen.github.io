@@ -32,7 +32,7 @@ redirect_from:
   <li>M.L.A., Peking University</li>
   <li>B.Eng. in Urban Planning, Huazhong University of Science and Technology</li>
 </ul>
-
+<hr>
 <!-- Work Experience -->
 <h2 id="work-experience">Work Experience</h2>
 <ul>
