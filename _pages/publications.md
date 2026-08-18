@@ -25,7 +25,7 @@ Keywords: Landscape metrics, street canopy, sky view factor, urban morphology, M
     display: inline-block;
     background-color: #3d82c1;      /* 按钮白底 */
     color: white;               /* 按钮文字蓝色 */
-    border: 2px solid #1f3a6e;    /* 按钮边框深蓝色 */
+    /* border: 2px solid #1f3a6e; 按钮边框深蓝色 */
     padding: 8px 16px;
     border-radius: 6px;
     cursor: pointer;
