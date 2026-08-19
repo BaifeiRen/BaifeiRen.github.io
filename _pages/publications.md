@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 Context-Dependent Relationships between Street-level Surface Heat Intensity, the Sky View Factor, and Landscape Pattern: Examples from the Coastal City of Vancouver, Canada
 ------
-Published in Ecological Informatics (IF=8.5, CiteScore: 13.2, JCR:Q1), 2026
+Published in Ecological Informatics (SCI, IF=8.5, CiteScore: 13.2, JCR: Q1), 2026
 
 **Baifei Ren**, Luke Bergmann
 
@@ -58,7 +58,7 @@ Ecological Informatics, 2026, 103637. [https://doi.org/10.1016/j.ecoinf.2026.103
 
 Impact of Human Disturbances on the Spatial Heterogeneity of Landscape Fragmentation in Qilian Mountain National Park, China
 ------
-Published in Land (IF=3.5, CiteScore: 6.4, JCR:Q2), 2022
+Published in Land (SSCI, IF=3.5, CiteScore: 6.4, JCR:Q2), 2022
 
 **Baifei Ren**, Keunhyun Park, Anil Shrestha,Jun Yang, Melissa McHale, Weilan Bai and Guangyu Wang*
 
