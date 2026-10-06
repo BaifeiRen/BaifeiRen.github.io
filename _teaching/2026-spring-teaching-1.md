@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-spring-teaching-1
+permalink: /teaching/2026-spring-teaching-2
 venue: "University of British Columbia, Department of Geography"
-date: from 2026-01-05 to 2025-04-30
+date: from 2026-01-05 to 2026-04-30
 location: "Vancouver, BC"
 ---
 
