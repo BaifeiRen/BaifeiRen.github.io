@@ -8,7 +8,7 @@ date: from 2026-01-05 to 2026-04-30
 location: "Vancouver, BC"
 ---
 
-TA for GEOS 270 Geographic Information Science
+TA for GEOS 270 Geographic Information Science (GIS)
 ===
 Teaching Assisstant for Course GEOS270 Geographic Information Science: The TA for course GIS with 69 students and 6 lab assignments(work hour 192 hours/term), teach students to use ArcGIS Pro to create maps and process geo-spatial data, grade assignments, answer students' questions.
 
