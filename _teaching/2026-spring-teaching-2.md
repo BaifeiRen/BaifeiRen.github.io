@@ -12,6 +12,6 @@ TA for GEOS 270 Geographic Information Science (GIS)
 ===
 Teaching Assisstant for Course GEOS270 Geographic Information Science: <br>
 Teaching workload: The TA for course GIS with 69 students and 6 lab assignments(work hour 192 hours/term), <br>
-Duties: teach students to use ArcGIS Pro to create maps and process geo-spatial data, grade assignments, answer students' questions.
+Duties: teach students to use ArcGIS Pro to create static maps and online interactive map, process geo-spatial data, grade assignments, answer students' questions.
 
 
