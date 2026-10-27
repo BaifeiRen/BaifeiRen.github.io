@@ -81,7 +81,7 @@ author_profile: true
 <h1>Academic Portfolio</h1>
 
 <div class="portfolio-list">
-  {% assign portfolio_posts = site.portfolio | sort: "date" | reverse %}
+  {% assign portfolio_posts = site.portfolio | sort: "order" %}
 
   {% for post in portfolio_posts %}
     {% include portfolio-entry.html %}
