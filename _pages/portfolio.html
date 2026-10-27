@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Portfolio"
@@ -5,16 +6,70 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<style>
+.page-header {
+  margin-bottom: 2rem;
+}
+
+.portfolio-image {
+  max-width: 900px;
+  margin: 0 auto 2rem;
+}
+
+.portfolio-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.portfolio-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.portfolio-list .archive__item {
+  margin-bottom: 0;
+}
+
+.portfolio-list .archive__item-teaser {
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.portfolio-list .archive__item-teaser img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.2s ease;
+}
+
+.portfolio-list .archive__item-teaser a:hover img {
+  opacity: 0.85;
+}
+
+.portfolio-list .archive__item-title {
+  margin-top: 0.5rem;
+  font-size: 1.2em;
+}
+
+.portfolio-list .archive__item-excerpt {
+  margin-top: 0.5rem;
+}
+</style>
+
 <div class="page-header">
   <p>
-    This portfolio showcases selected my design awards in urban design and academic work 
+    This portfolio showcases selected design awards in urban design and academic work
     in urban climate, spatial analysis, and geospatial modeling.
   </p>
 </div>
 
 <div class="portfolio-image">
   <figure>
-    <img src="../images/Baifei_portfolio.jpg" 
+    <img src="/images/Baifei_portfolio.jpg"
          alt="Overview of academic and geospatial research projects" />
     <figcaption>
       This collection presents my watercolor paintings.
@@ -27,8 +82,9 @@ author_profile: true
 <h1>Academic Portfolio</h1>
 
 <div class="portfolio-list">
-  {% for post in site.portfolio %}
-    {% include archive-single.html %}
+  {% assign portfolio_posts = site.portfolio | sort: "date" | reverse %}
+
+  {% for post in portfolio_posts %}
+    {% include portfolio-entry.html %}
   {% endfor %}
 </div>
-
