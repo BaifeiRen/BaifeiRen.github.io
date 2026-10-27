@@ -1,0 +1,28 @@
+{% assign teaser = post.header.teaser %}
+
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+
+  {% if teaser %}
+    <div class="archive__item-teaser">
+      <a href="{{ post.url | relative_url }}"
+         aria-label="Read {{ post.title | escape }}">
+        <img src="{{ teaser | relative_url }}"
+             alt="{{ post.title | escape }}"
+             loading="lazy">
+      </a>
+    </div>
+  {% endif %}
+
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}" rel="permalink">
+      {{ post.title }}
+    </a>
+  </h2>
+
+  {% if post.excerpt %}
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt }}
+    </div>
+  {% endif %}
+
+</article>
