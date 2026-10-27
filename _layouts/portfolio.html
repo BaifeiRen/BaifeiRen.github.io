@@ -1,0 +1,51 @@
+---
+layout: archive
+---
+
+<style>
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.portfolio-grid .archive__item {
+  margin-bottom: 1rem;
+}
+
+.portfolio-grid .archive__item-teaser {
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.portfolio-grid .archive__item-teaser img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.2s ease;
+}
+
+.portfolio-grid .archive__item-teaser a:hover img {
+  opacity: 0.85;
+}
+
+.portfolio-grid .archive__item-title {
+  margin-top: 0.5rem;
+  font-size: 1.2em;
+}
+
+.portfolio-grid .archive__item-excerpt {
+  margin-top: 0.5rem;
+}
+
+</style>
+
+<div class="portfolio-grid">
+  {% assign portfolio_posts = site.portfolio | sort: "date" | reverse %}
+
+  {% for post in portfolio_posts %}
+    {% include portfolio-entry.html %}
+  {% endfor %}
+</div>
